@@ -1,1 +1,2 @@
 # mobility-hub
+This study is collaborated with Florida Department of Transportation (FDOT) about identifying the optimal locations for mobility hubs in Gainesville, Florida. The proposed methodology can score and weight different criteria that can decide mobility hub suitability, taking the transit supply, first-/last-mile connectivity, accessibility, infrastructure and socioeconomic equity into account in the weighting. The spatial indicators were quantified and analyzed through Module Builder in ArcGIS.
